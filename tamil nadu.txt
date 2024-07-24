@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html class="wide wow-animation" lang="en">
+  <head>
+    <title>TanyaTours</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <link rel="icon" href="images/maple.png" type="image/x-icon">
+    <!-- Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:400,500,600,700%7CPoppins:400%7CTeko:300,400">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/style.css">
+    <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
+  </head>
+  <body>
+    <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+    <div class="preloader">
+      <div class="preloader-body">
+        <div class="cssload-container">
+          <div class="cssload-speeding-wheel"></div>
+        </div>
+        <p>Loading...</p>
+      </div>
+    </div>
+    <div class="page">
+      <!-- Page Header-->
+	  <header class="section page-header">
+        <!-- RD Navbar-->
+        <div class="rd-navbar-wrap">
+          <nav class="rd-navbar rd-navbar-corporate" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="46px" data-xl-stick-up-offset="46px" data-xxl-stick-up-offset="106px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+            <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
+            <div class="rd-navbar-aside-outer">
+              <div class="rd-navbar-aside">
+                <!-- RD Navbar Panel-->
+                <div class="rd-navbar-panel">
+                  <!-- RD Navbar Toggle-->
+                  <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                  <!-- RD Navbar Brand-->
+                  <div class="rd-navbar-brand">
+                    <!--Brand--><a class="brand" href="#"><img src="images\tt.jpg" alt="" width="225" height="18"/></a>
+                  </div>
+                </div>
+                <div class="rd-navbar-aside-right rd-navbar-collapse">
+                  <ul class="rd-navbar-corporate-contacts">
+                    <li>
+                      <div class="unit unit-spacing-xs">
+                        <div class="unit-left"><span class="icon fa fa-clock-o"></span></div>
+                        <div class="unit-body">
+                          <p>09:00<span>am</span> — 05:00<span>pm</span></p>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="unit unit-spacing-xs">
+                        <div class="unit-left"><span class="icon fa fa-phone"></span></div>
+                        <div class="unit-body"><a class="link-phone" href="tel:#">+91 124567890</a></div>
+                      </div>
+                    </li>
+                  </ul><a class="button button-md button-default-outline-2 button-ujarak" href="#">Sign Up</a>
+                </div>
+              </div>
+            </div>
+            <div class="rd-navbar-main-outer">
+              <div class="rd-navbar-main">
+                <div class="rd-navbar-nav-wrap">
+                  <ul class="list-inline list-inline-md rd-navbar-corporate-list-social">
+                    <li><a class="icon fa fa-facebook" href="#"></a></li>
+                    <li><a class="icon fa fa-twitter" href="#"></a></li>
+                    <li><a class="icon fa fa-google-plus" href="#"></a></li>
+                    <li><a class="icon fa fa-instagram" href="#"></a></li>
+                  </ul>
+                  <!-- RD Navbar Nav-->
+                  <ul class="rd-navbar-nav">
+                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" >About</a>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" >Search Tours</a>
+                    </li>
+                    <li class="rd-nav-item"><a class="rd-nav-link" >Contact Us</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </header>
+      <!-- Breadcrumbs -->
+      <section class="breadcrumbs-custom-inset">
+        <div class="breadcrumbs-custom context-dark bg-overlay-60">
+          <div class="container">
+            <h2 class="breadcrumbs-custom-title">Tamil Nadu</h2>
+            <ul class="breadcrumbs-custom-path">
+              <li><a href="index.html">Home</a></li>
+              <li class="active">Hot Tours</li>
+            </ul>
+          </div>
+          <div class="box-position" style="background-image: url(images/tm.jpg);"></div>
+        </div>
+      </section>
+      <!-- Base  -->
+      <section class="section section-sm section-first bg-default text-left">
+        <div class="container">
+          <div class="row row-40 flex-lg-row-reverse justify-content-xl-between">
+            <div class="col-xl-5 d-none d-xl-block">
+              <div class="offset-left-xl-45">
+                <h1>TAMIL-NADU</h1>
+                <h2>Ooty</h2>
+                <h3>Madurai</h3>
+                <h4>Kanniyakumari</h4>
+				<h5>Thanjavur</h5>
+              </div>
+            </div>
+            <div class="col-xl-7">
+              <ul class="list-xl box-tour">
+                <li>
+                  <h1>Welcome to Tamil Nadu</h1>
+                  <p>A potpourri of vibrant cultures, exotic destinations and enduring memories; welcome to one of the heartlands of human civilization.Tamil Nadu - where stories never end. Discover Tamil Nadu's unique destinations - from UNESCO World Heritage Sites to soothing beaches and hill stations.</p>
+                </li>
+				<li>
+				  <h3>OOTY</h3>
+				  <img src="images\ooty.jpg" width=100%>
+				  <p>Ooty, the Queen of Hill stations, welcome you with mesmerising meadows, soothing environment, cool weather and a wide array of sightseeing places to visit and admire. Each tourist attraction in Ooty promises a unique and lively experience that will leave you in awe for many days to come.A chain of misty hills spread across a lush green carpet – with plenty to see, enjoy and experience. Ooty is much more than a visitor’s paradise. It lends a piece of itself to its guests that they will be thrilled to take back. One of the most beautiful hill stations in India, Ooty nestles in the Nilgiri district of Tamil Nadu. An erstwhile summer resort of the British Raj in India, Ooty has transformed over the years into one of the most sought-after tourism destinations in Tamil Nadu. </p>
+				  <p>HOW TO REACH :<br>
+				  ROAD -> Udhagamandalam Central Bus Stand.<br>
+				  PLANE -> Coimbatore International Airport, about 88 km away.<br>
+				  TRAIN ->Coimbatore Railway Station, about 87 km away. Another way to reach   Ooty is to take the Toy Train from Mettupalayam via Coonoor.</p>
+				  <p>Things to do :<br> 
+				  >>Take a ride in the toy train<br>
+				  >>Trekking<br>
+				  >>Go boating<br>
+				  >>Camping</p>
+				</li>
+                <li>
+                  <h3>MADURAI</h3>
+				  <img src="images\mad.jpg" width=100%>
+                  <p>An ancient city that takes you back in time; where you will stand wondering about the evolution of culture, traditions and civilization. Walk further and you will be amazed by how such a historic city has a bustling urban face too.Temples, churches and palaces adorn the streets of Madurai. There is plenty to see and know about. The ancient structures are simply marvellous and speak volumes about the Dravidian architectural brilliance. Besides these, Madurai has stayed relevant as a destination through history; a factor that has seen many establishments come up in the city over the years. The place is very tourism friendly and attracts millions of visitors every year.</p>
+				  <p>HOW TO REACH :<br> 
+				  ROAD -> National Highway 45 and 45B connects Madurai to Chennai. Madurai can be reached from Bengaluru via NH 49.<br>
+				  PLANE -> Madurai Domestic Airport, Avaniyapuram.(The airport has direct connectivity with international destinations like Colombo, Dubai and Singapore. It is also well connected with popular domestic destinations like Chennai, Bengaluru, Hyderabad, Mumbai and New Delhi.)<br>
+				  TRAIN -> Madurai Junction is the major railway station serving the city.</p>
+                </li>
+                <li>
+                  <h3>KANNIYAKUMARI</h3>
+				  <img src="images\kk.jpg" width=100%>
+                  <p>Dreaming of a delightful vacation by a splendid seaside where you can watch sunrise and sunset in all its glory? Or simply walk around the place, mesmerised by the enchanting beauty and historic virtues it treats you with? Welcome to Kanniyakumari. Kanniyakumari is a special destination in many different ways. It is the southernmost tip of the mainland of India. Three major water bodies – the Arabian Sea, Bay of Bengal and the Indian Ocean – converge right here in Kanniyakumari. Such a geographically blessed destination is rare and these features make Kanniyakumari one of the most visited places in India annually.</p>
+				  <p>HOW TO REACH :<br>
+				  ROAD -> Buses ply from major cities like Thiruvananthapuram, Madurai, Coimbatore, Puducherry and Chennai to Kanyakumari Bus Stand, Puthugramam.Vadasery Bus Stand, Nagercoil, about 21 km away.<br>
+				  PLANE -> The nearest International airport is Thiruvananthapuram International Airport which is 76 km from Kanyakumari. Madurai International Airport, about 240 km away.<br>
+				  TRAIN -> Kanyakumari Railway Station.Nagercoil Junction Railway Station, 17 km away.</p>
+				  <p>Top Attractions :<br>
+				  >>Vattakottai Fort<br>
+				  >>Sothavilai Beach<br>
+				  >>Mathoor Aqueduct & Hanging Bridge<br>
+				  >>Gandhi Memorial Mandapam<br>
+				  >>Thiruvalluvar Statue<br>
+				  >>Vivekananda Rock Memorial</p>
+                </li>
+				<li>
+                  <h3>THANJAVUR</h3>
+				  <img src="images\th.webp" width=100%>
+                  <p>Here is where images from the past come together to paint the collage of a glorious city; a work of art in itself. that reflects the richness of culture and heritage that adorns this land. Thanjavur is a destination unlike any other. Stretches of temples that speak volumes about the brilliance of Dravidian architecture – that is what Thanjavur is in one glimpse. However this historic city is much more than that. Arrive at the destination and be wondered about the breadth of lush green paddy fields that offer an absolute feast to the eyes. Then comes the sheer splendour of the world-famous Thanjavur Paintings. Sculptures, art, cuisine, hospitality – you will for sure be lost for words.</p>
+				  <p>HOW TO REACH :<br>
+				  ROAD -> Thanjavur Bus Stand. Local buses, both Government and Private, ply to Thanjavur from major cities like Coimbatore, Chennai, Madurai, Tiruchirappalli, Thiruvarur and Pudukkottai on a regular basis.<br>
+				  PLANE -> Tiruchirappalli International Airport, about 61 km away.<br>
+				  TRAIN -> Thanjavur Junction Station.Tiruchirappalli Railway Station, about 55 km away.</p>
+				  <p>Top Attractions :<br>
+				  >>Brihadeeswara Temple<br>
+				  >>Saraswathi Mahal Library</p>
+                </li>
+				<a class="button button-black-outline button-ujarak" href="#">BOOK NOW</a>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Lists and Blockquote-->
+      <section class="section section-sm section-last bg-default text-left">
+        <div class="container">
+          <div class="row row-60 row-md-80 row-lg-90">
+            <div class="col-lg-8 col-xl-6">
+              <div class="offset-left-xl-65">
+                <h3>Quote</h3>
+                <!-- Quote Classic-->
+                <article class="quote-classic">
+                  <div class="quote-classic-text">
+                    <p class="q">A journey of a thousand miles begins with a single step</p>
+                  </div>
+                  <h6 class="quote-classic-cite">Lao Tzu</h6>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Page Footer-->
+      <footer class="section footer-corporate context-dark">
+        <div class="footer-corporate-inset">
+          <div class="container">
+            <div class="row row-40 justify-content-lg-between">
+              <div class="col-sm-6 col-md-12 col-lg-3 col-xl-4">
+                <div class="oh-desktop">
+                  <div class="wow slideInRight" data-wow-delay="0s">
+                    <h6 class="text-spacing-100 text-uppercase">Contact us</h6>
+                    <ul class="footer-contacts d-inline-block d-sm-block">
+                      <li>
+                        <div class="unit">
+                          <div class="unit-left"><span class="icon fa fa-phone"></span></div>
+                          <div class="unit-body"><a class="link-phone" href="tel:#">+91 1234567890</a></div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="unit">
+                          <div class="unit-left"><span class="icon fa fa-envelope"></span></div>
+                          <div class="unit-body"><a class="link-aemail" href="mailto:#">info@tanyatours.org</a></div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="unit">
+                          <div class="unit-left"><span class="icon fa fa-location-arrow"></span></div>
+                          <div class="unit-body"><a class="link-location" href="#">4730 Crystal Springs Dr, Kolkata, 700 052</a></div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6 col-md-5 col-lg-3 col-xl-4">
+                <div class="oh-desktop">
+                  <div class="wow slideInDown" data-wow-delay="0s">
+                    <h6 class="text-spacing-100 text-uppercase">Popular news</h6>
+                    <!-- Post Minimal 2-->
+                    <article class="post post-minimal-2">
+                      <p class="post-minimal-2-title"><a href="#">Your Personal Guide to 5 Best Places to Visit in India</a></p>
+                      <div class="post-minimal-2-time">
+                        <time datetime="2019-05-04">May 04, 2023</time>
+                      </div>
+                    </article>
+                    <!-- Post Minimal 2-->
+                    <article class="post post-minimal-2">
+                      <p class="post-minimal-2-title"><a href="#">Top 10 Hotels: Rating by Wonder Tour Travel Experts</a></p>
+                      <div class="post-minimal-2-time">
+                        <time datetime="2019-05-04">May 04, 2023</time>
+                      </div>
+                    </article>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-11 col-md-7 col-lg-5 col-xl-4">
+                <div class="oh-desktop">
+                  <div class="wow slideInLeft" data-wow-delay="0s">
+                    <h6 class="text-spacing-100 text-uppercase">Quick links</h6>
+                    <ul class="row-6 list-0 list-marked list-marked-md list-marked-secondary list-custom-2">
+                      <li><a href="#">About us</a></li>
+                      <li><a href="#">Our Tours</a></li>
+                      <li><a href="#">Our Team</a></li>
+                      <li><a href="#">Gallery</a></li>
+                      <li><a href="#">Blog</a></li>
+                    </ul>
+                    <div class="group-md group-middle justify-content-sm-start"><a class="button button-lg button-primary button-ujarak" href="#">Get in touch</a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-corporate-bottom-panel">
+          <div class="container">
+            <div class="row justfy-content-xl-space-berween row-10 align-items-md-center2">
+              <div class="col-sm-6 col-md-4 text-sm-right text-md-center">
+                <div>
+                  <ul class="list-inline list-inline-sm footer-social-list-2">
+                    <li><a class="icon fa fa-facebook" href="#"></a></li>
+                    <li><a class="icon fa fa-twitter" href="#"></a></li>
+                    <li><a class="icon fa fa-google-plus" href="#"></a></li>
+                    <li><a class="icon fa fa-instagram" href="#"></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-sm-6 col-md-4 order-sm-first">
+                <!-- Rights-->
+                <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Tanya Tour</span>. All Rights Reserved. Design by Tanya Prasad</a></p>
+              </div>
+              <div class="col-sm-6 col-md-4 text-md-right">
+                <p class="rights"><a href="#">Privacy Policy</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- Global Mailform Output-->
+    <div class="snackbars" id="form-output-global"></div>
+    <!-- Javascript-->
+    <script src="js/core.min.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
